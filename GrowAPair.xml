@@ -6,7 +6,31 @@
 Welcome to GrowAPair. A custom modded server featuring quality of life mods.
 
 Current Mods include:
+
 War3zuk A18 AIO Overhaul
+- 0-CreaturePackAnimals
+- 0-CreaturePackHumans
+- 0-CreaturePackZombies
+- BDubs Nuka Colas 
+- Bdubs Vehicles
+- Boulder Regen
+- Hitmarkers
+- Khelldon Screamer Bears
+- Moong Military Tablet
+- More Vanilla Food
+- SMXhud
+- SMXmenu
+- Syth Water Buff
+- Telrics Health Bars 2.0
+- Valmars Buffed Supply Crate Drops
+- Valmars Disable Falling Trees
+- Vehicle Respawner
+- War3zuk Alpha 18 AIO
+- War3zuk Extra Deco Ore
+- War3zuk Paintings XXX 2x3
+- War3zuk Suicide girls XXX
+- Xyth SteelBars
+
 SoDead_Farm Life 2_v0.0.0.2a
 SoDead_WeaponMods_v0.0.0.4a
 
@@ -14,23 +38,13 @@ Have fun and enjoy your stay.
 
 
 			</Description>
-				<Version>Latest</Version>
-			<RSS/>
-				<Excludes>
-				<Exclude>7DaysToDieServer_Data\</Exclude>
-				<Exclude>\obj\</Exclude>
-				<Exclude>\bin\</Exclude>
-			</Excludes>
+				<Version>Latest</Version>			
 			<ReleaseNotes/>
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
 				<Download>https://gitlab.com/war3zuk/war3zuk-alpha-18-aio-overhaul</Download>
-				<Download>https://github.com/Phredds/Test-Mods</Download>				
+				<Download>https://github.com/Phredds/GrowAPair</Download>				
 			</Downloads>
 		</Server>
-		
-		
-
 	</ServerGroup>
-
 </Servers>
